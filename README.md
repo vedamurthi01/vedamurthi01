@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vedamurthi<br><br>🎓 Computer Science Student<br><br>💻 Skilled in MERN Stack, Java,  Python and C<br><br>🌱 Currently exploring Data Structures, Algorithms, and Backend Development<br><br>🚀 Love building projects and contributing to open source<br><br>📫 Reach me at: vedamurthi2003@gmail.com
+🔭 👋 Hi, I’m Vedamurthi<br><br>🎓 Computer Science Student<br><br>💻 Skilled in MERN Stack, Java, and C<br><br>🌱 Currently exploring Data Structures, Algorithms, and Backend Development<br><br>🚀 Love building projects and contributing to open source<br><br>📫 Reach me at: vedamurthi2003@gmail.com<br> 📄 Check out my Resume: https://drive.google.com/file/d/1ibtCuH42_NNfEn4PgjDX7H4t6X9Y99kD/view?usp=drivesdk<br>  
 
 
 ## 🌐 Socials:
@@ -12,10 +12,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vedamurthi01&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedamurthi01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vedamurthi01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vedamurthi01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
