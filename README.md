@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 👋 Hi, I’m Vedamurthi<br><br>🎓 Computer Science Student<br><br>💻 Skilled in MERN Stack, Java, and C<br><br>🌱 Currently exploring Data Structures, Algorithms, and Backend Development<br><br>🚀 Love building projects and contributing to open source<br><br>📫 Reach me at: vedamurthi2003@gmail.com<br> 📄 Check out my Resume: https://drive.google.com/file/d/1ibtCuH42_NNfEn4PgjDX7H4t6X9Y99kD/view?usp=drivesdk<br>  
+🔭 👋 Hi, I’m Vedamurthi<br><br>🎓 Computer Science Student<br><br>💻 Skilled in MERN Stack, Java, Python and C<br><br>🌱 Currently exploring Data Structures, Algorithms, and Backend Development<br><br>🚀 Love building projects and contributing to open source<br><br>📫 Reach me at: vedamurthi2003@gmail.com<br> 📄 Check out my Resume: https://drive.google.com/file/d/1ibtCuH42_NNfEn4PgjDX7H4t6X9Y99kD/view?usp=drivesdk<br>  
 
 
 ## 🌐 Socials:
